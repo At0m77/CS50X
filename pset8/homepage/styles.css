@@ -1,0 +1,24 @@
+body{
+    margin:0px;
+}
+.noChange{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}
+.nav-bar{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-between;
+}
+.main-border{
+    margin:4rem;
+}
+.main{
+    margin:3rem;
+    padding:3rem;
+
+}
+.tab-content{
+    margin-top:2rem;
+}
